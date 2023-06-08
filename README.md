@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align="center"> Hi there, I'm <a href="https://github.com/NataliaMiro" target="_blank"> Natalia Mironova </a>👋
+https://github.com/NataliaMiro
+  <h3 align="center">QA Engeneer, from Russia, Penza 🇷🇺</h3>
 <!--
 **NataliaMiro/NataliaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
