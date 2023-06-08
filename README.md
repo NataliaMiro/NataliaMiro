@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://github.com/NataliaMiro" target="_blank"> Natalia Mironova </a>👋
   <h3 align="center">QA Engeneer, from Russia, Penza 🇷🇺</h3>
   
-<a href="https://natalym82">  < height="50" src="github.com/NataliaMiro/NataliaMiro/assets/124344377/748d115c-4a91-4869-a54c-9ff4157f1f68.png)"/></a>
+
 <!--
 **NataliaMiro/NataliaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
