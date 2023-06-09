@@ -1,7 +1,13 @@
 <h1 align="center"> Hi there, I'm <a href="https://github.com/NataliaMiro" target="_blank"> Natalia Mironova </a>👋
   <h3 align="center">QA Engeneer, from Russia, Penza 🇷🇺</h3>
   
+<a href="https://t.me/natalym82">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
+<a href="https://m.vk.com/id23007195">
+<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+</a>
 <!--
 **NataliaMiro/NataliaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
