@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&duration=2000&pause=100&color=31DF13&multiline=true&width=1700&height=300&lines=<h1 align="center"> Hi+there%2C+I'm+ Natalia Mironova </a>👋;
-  <h3 align="center">QA+Engeneer+from Russia+Penza 🇷🇺</h3>)](https://git.io/typing-svg)
+<h1 align="center"> Hi there, I'm <a href="https://github.com/NataliaMiro" target="_blank"> Natalia Mironova </a>👋
+  <h3 align="center">QA Engeneer, from Russia, Penza 🇷🇺</h3>
   
 
 <!--
