@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 </a>
 
+<!--
 **NataliaMiro/NataliaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 
  ***<H3>Нахожусь в поиске работы QA Engineer</H3>*** 
