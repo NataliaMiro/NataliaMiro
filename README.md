@@ -13,7 +13,7 @@
 
 
 
-__ Нахожучь в поиске работы QA Engineer__
+__ Нахожусь в поиске работы QA Engineer__
 
 Here are some ideas to get you started:
 
