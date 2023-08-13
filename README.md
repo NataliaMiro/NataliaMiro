@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm <a href="https://github.com/NataliaMiro" target="_blank"> Natalia Mironova </a>👋
-  <h3 align="center">QA Engeneer, from Russia, Penza 🇷🇺</h3>
+  <h3 align="center">QA Engineer, from Russia, Penza 🇷🇺</h3>
   
 <a href="https://t.me/natalym82">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -13,7 +13,8 @@
 
 
 
-__ Нахожкучь в поиске работы QA Engineer__
+__ Нахожучь в поиске работы QA Engineer__
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
