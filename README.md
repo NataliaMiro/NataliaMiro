@@ -8,13 +8,13 @@
 <a href="https://m.vk.com/id23007195">
 <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 </a>
-<!--
+
 **NataliaMiro/NataliaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
 __ Нахожусь в поиске работы QA Engineer__
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
