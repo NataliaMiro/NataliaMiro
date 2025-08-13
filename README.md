@@ -59,6 +59,7 @@ _<H4>Любимовка</H4>_
 + [Скиншот](https://docs.google.com/document/d/1c9oMsovJuvBuyf0coN7GXplpWBD_KbZEELjo89ZGz24/edit?usp=sharing) баг-репорта из Notion. [Cсылка на скринкаст](https://drive.google.com/file/d/127brSEm0NwA__Xctzsfuj1LyxcjoY-qf/view?usp=sharing)
 
 
+_<H4>Яндекс Метро</H4>_
 Тестирование мобильного приложения Яндекс Метро
 + [Таблица принятия решения](https://docs.google.com/spreadsheets/d/1-Q0suBxwXzD5qCgBYGT51sK81YNtLJopoEc32_pzoco/edit?usp=sharing) при тестировании отображения станций в списке.
 + Таблица [попарного тестирования](https://drive.google.com/file/d/1JDwy-VFf1gpKMEDUgkmY4H3YXnu36kWx/view?usp=sharing) при выборе станций и темы приложения.
@@ -66,7 +67,7 @@ _<H4>Любимовка</H4>_
 + Скиншот [тест-кейса](https://drive.google.com/file/d/1HWoLvJpnLjHYhqh_5YF4ee6V5L-M8C-S/view?usp=sharing) из TMS
 
 
-Тестовое задание в QACloudCamp
+Тестовое задание в _<H4>QACloudCamp</H4>_
 + Создание [docker-образа](https://github.com/NataliaMiro/QACloudCampTestAssignment)
 <!--
 Here are some ideas to get you started:
