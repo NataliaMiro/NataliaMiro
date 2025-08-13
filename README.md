@@ -52,6 +52,7 @@ _<H4>Яндекс Прилавок</H4>_
 + [Автотесты](https://github.com/NataliaMiro/yandex_api_stand_tests) на проверку параметра firstName,  при создании пользователя , параметра name при создании наборов с продуктами в Яндекс.Прилавок с помощью API.
 
 
+_<H4>Любимовка</H4>_
 Тестирование сайта "Любимовка" (участие в проектном месяце, во время обучения на курсе "Яндекс Практикум")
 + Тестирование фронтенда раздела ["Блог"](https://docs.google.com/spreadsheets/d/1vLXg9u08i6fBnkBC7do2f0iUAFEB1RKzRBnOWuxWzy8/edit?usp=sharing)
 + Тестирование бекенда раздела [Afisha](https://docs.google.com/spreadsheets/d/1i1sBzZeM_2WjNj_Zy9_WgLLMolI2sncJE7cN3W8Fyrk/edit?usp=sharing)
