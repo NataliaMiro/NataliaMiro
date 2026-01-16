@@ -12,7 +12,7 @@
 </a>
 
 <a href="linkedin.com/in/natalia-mironova-10731635b">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-mironova-10731635b" alt="LinkedIn"/>
 </a>
 
 <!--
