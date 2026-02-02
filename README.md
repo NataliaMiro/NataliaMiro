@@ -3,13 +3,13 @@
 </h1>
 <h3 align="center">QA Engineer</h3>
   
-<a href="https://t.me/natalym82">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
 
-<a href="https://m.vk.com/id23007195">
-<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-</a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natalym82)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/natalia-mironova-10731635b)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.natalymir82@gmail.com)
+
+---
 
 
 <!--
