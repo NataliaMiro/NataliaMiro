@@ -6,7 +6,7 @@
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natalym82)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/natalia-mironova-10731635b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-mironova-10731635b)
 [![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.natalymir82@gmail.com)
 
 ---
